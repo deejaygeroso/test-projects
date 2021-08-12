@@ -18,6 +18,6 @@ View Project [here](https://github.com/deejaygeroso/knowledge-base-website)
 ![App Screenshot](https://github.com/deejaygeroso/knowledge-base-website/blob/master/public/screenshot1.png)  
 
 ## Login Page  
-A very simple login page.
+A very simple login page.  
 View Project [here](https://github.com/deejaygeroso/login-page)  
 ![App Screenshot](https://github.com/deejaygeroso/login-page/blob/master/public/assets/images/screenshot.png)  
