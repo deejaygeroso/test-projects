@@ -4,7 +4,7 @@ Below are some test projects I took from different companies. Since I enjoyed mo
 ## Tender Quotes  
 A very simple application that allows you to save all your favorite quotes.  
 [Node Backend](https://github.com/deejaygeroso/quotes-app-server)  
-[UI](https://github.com/deejaygeroso/quotes-app-ui)  
+[React Frontend](https://github.com/deejaygeroso/quotes-app-ui)  
 [![App Video](https://img.youtube.com/vi/Im0mZ-gaVMA/0.jpg)](https://www.youtube.com/watch?v=Im0mZ-gaVMA)  
 
 ## Countdown Timer  
