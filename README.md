@@ -1,6 +1,12 @@
 # Test Projects
 Below are some test projects I took from different companies. Since I enjoyed most of the challenges, I compiled most of them here.
 
+## Tender Quotes  
+A very simple application that allows you to save all your favorite quotes.  
+Node Backend [here](https://github.com/deejaygeroso/quotes-app-server)  
+React Frontend [here](https://github.com/deejaygeroso/quotes-app-ui)  
+[![App Video](https://img.youtube.com/vi/Im0mZ-gaVMA/0.jpg)](https://www.youtube.com/watch?v=Im0mZ-gaVMA)  
+
 ## Countdown Timer  
 A shared countdown timer that can be simultaneously experienced by multiple users.  
 View Project [here](https://github.com/deejaygeroso/countdown)  
